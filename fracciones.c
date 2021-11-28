@@ -1,7 +1,7 @@
 /*
 Este programa esta hecho por:Esteban Soto.
 Correo:estebansanchezsoto916@gmail.com
-Terminado el: 24/11/21
+Terminado el: 28/11/21
 
 Este programa esta hecho para hacer las operaciones basicas con fracciones.
 Hecha con funciones.
