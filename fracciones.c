@@ -3,7 +3,7 @@ Este programa esta hecho por:Esteban Soto.
 Correo:estebansanchezsoto916@gmail.com
 Terminado el: 28/11/21
 
-Este programa esta hecho para hacer las operaciones basicas con fracciones.
+Este programa esta hecho para resolver las operaciones basicas con fracciones.
 Hecha con funciones.
 */
 
