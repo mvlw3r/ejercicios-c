@@ -5,7 +5,7 @@ Contacto:estebansanchezsoto916@gmail.com
 Sun 06 Mar 2022 05:19:11 PM CST
 
 Este programa esta hecho para crear valores aleatorios hasta el 1000
-seguidamente ordenarlos de menor a mayor.
+y ordenar 100 de ellos de menor a mayor.
 
 */
 
@@ -34,9 +34,9 @@ int main(){
 		{
 			if(v[j]>v[j + 1])
 			{
-				temp = v[j];
-				v[j] = v[j + 1];
-				v[j + 1] = temp;
+				temp = v[j+1];
+				v[j+1] = v[j];
+				v[j] = temp;
 			}
 		}
 	}
